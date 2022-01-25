@@ -14,6 +14,6 @@ Program download address. http://www.phpshe.com/down/phpshe1.8.rar
 
 ![image](https://user-images.githubusercontent.com/56090996/150914177-9cd2fba3-a2e3-4e7e-8760-a88842f3229b.png)
 
-## Enter the server and find the cpu usage %99
+## Enter the server(4h8g) and find the cpu usage %99
 ![image](https://user-images.githubusercontent.com/56090996/150914104-2cbf7648-c0f1-4c48-8132-df1a0a52dc33.png)
 
